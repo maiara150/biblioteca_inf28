@@ -1,0 +1,15 @@
+D:\maiarinha_inf28\bin\Debug\net8.0\maiarinha_inf28.exe
+D:\maiarinha_inf28\bin\Debug\net8.0\maiarinha_inf28.deps.json
+D:\maiarinha_inf28\bin\Debug\net8.0\maiarinha_inf28.runtimeconfig.json
+D:\maiarinha_inf28\bin\Debug\net8.0\maiarinha_inf28.dll
+D:\maiarinha_inf28\bin\Debug\net8.0\maiarinha_inf28.pdb
+D:\maiarinha_inf28\obj\Debug\net8.0\maiarinha_inf28.GeneratedMSBuildEditorConfig.editorconfig
+D:\maiarinha_inf28\obj\Debug\net8.0\maiarinha_inf28.AssemblyInfoInputs.cache
+D:\maiarinha_inf28\obj\Debug\net8.0\maiarinha_inf28.AssemblyInfo.cs
+D:\maiarinha_inf28\obj\Debug\net8.0\maiarinha_inf28.csproj.CoreCompileInputs.cache
+D:\maiarinha_inf28\obj\Debug\net8.0\maiarinha_inf28.sourcelink.json
+D:\maiarinha_inf28\obj\Debug\net8.0\maiarinha_inf28.dll
+D:\maiarinha_inf28\obj\Debug\net8.0\refint\maiarinha_inf28.dll
+D:\maiarinha_inf28\obj\Debug\net8.0\maiarinha_inf28.pdb
+D:\maiarinha_inf28\obj\Debug\net8.0\maiarinha_inf28.genruntimeconfig.cache
+D:\maiarinha_inf28\obj\Debug\net8.0\ref\maiarinha_inf28.dll
